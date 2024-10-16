@@ -1,6 +1,0 @@
-*.gitattributes zos-working-tree-encoding=iso8859-1 git-encoding=utf-8
-source/*src zos-working-tree-encoding=ibm-1047 git-encoding=utf-8
-source/ibm037.src zos-working-tree-encoding=IBM-037 git-encoding=utf-8
-
-copybook/nround.cpy binary
-copybook/nround.cpy binary
